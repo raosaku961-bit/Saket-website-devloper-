@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: saket-web-developer
+    runtime: node
+    plan: free
+    region: oregon
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: BUSINESS_EMAIL
+        value: raosaku961@gmail.com
+      - key: GMAIL_USER
+        value: raosaku961@gmail.com
+      - key: GMAIL_APP_PASSWORD
+        sync: false

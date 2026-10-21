@@ -1,0 +1,30 @@
+[
+  {
+    "id": "INQ-MVI97WM3",
+    "fullName": "David Robinson",
+    "businessName": "Robinson Tech LLC",
+    "email": "david@robinsontech.com",
+    "country": "United States",
+    "service": "AI Call Agent Development",
+    "budget": "$1,000+",
+    "details": "Hello Saket, we are looking for an AI voice receptionist to qualify inbound callers and route urgent leads.",
+    "submittedAt": "2026-10-21T15:15:39.092Z",
+    "formattedDate": "Wednesday, October 21, 2026 at 8:45:39 PM GMT+5:30",
+    "emailDelivered": true,
+    "deliveryError": null
+  },
+  {
+    "id": "INQ-MVI6RTXF",
+    "fullName": "Alex Miller",
+    "businessName": "Apex Consulting",
+    "email": "alex@apexconsulting.com",
+    "country": "United States",
+    "service": "Website Development",
+    "budget": "$1,000+",
+    "details": "Looking for a modern corporate website with interactive 3D hero and booking flow.",
+    "submittedAt": "2026-10-21T14:07:09.888Z",
+    "formattedDate": "Wednesday, October 21, 2026 at 7:37:09 PM GMT+5:30",
+    "emailDelivered": false,
+    "deliveryError": "GMAIL_APP_PASSWORD not configured"
+  }
+]
